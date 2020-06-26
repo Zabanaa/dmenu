@@ -5,3 +5,4 @@
 - center
 - highlight
 - highpriority (run dmenu with the -hp flag)
+- lineheight
